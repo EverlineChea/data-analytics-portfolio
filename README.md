@@ -42,6 +42,3 @@ Welcome to the GlobalMart Sales Performance Analysis. GlobalMart is a fictional 
 2. **Data Modeling** – Establish relationships, optimize model.
 3. **KPI Calculation** – Develop DAX measures (Total Sales, Total Profit, Profit Margin, etc.).
 4. **Visualization Development** – Build interactive dashboards across multiple pages
-
-
-Do you want me to do that?
