@@ -39,6 +39,7 @@ Welcome to the GlobalMart Sales Performance Analysis. GlobalMart is a fictional 
 ### Project Tasks
 
 1. **Data Import and Transformation** – Import dataset, clean data, create a date table.
-2. **Data Modeling** – Establish relationships, optimize model.
-3. **KPI Calculation** – Develop DAX measures (Total Sales, Total Profit, Profit Margin, etc.).
-4. **Visualization Development** – Build interactive dashboards across multiple pages
+2. **Data Cleaning**– Handle missing values, remove duplicates, standardize fields, and correct data inconsistencies.
+3. **Data Modeling** – Establish relationships, optimize model.
+4. **KPI Calculation** – Develop DAX measures (Total Sales, Total Profit, Profit Margin, etc.).
+5. **Visualization Development** – Build interactive dashboards across multiple pages
